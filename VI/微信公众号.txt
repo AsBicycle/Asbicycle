@@ -1,3 +1,18 @@
 public@isriding.com
 isriding604
 
+http://mail.isriding.com/webmail/index.php
+
+微信开放平台
+rd@isriding.com
+isriding604
+
+通过移动APP，实现安全锁车，便捷用车,共享单车服务。意在解决人们短途出行的一切难题，让短途出行变得安全无忧、简单便捷。
+
+
+
+iOS：com.isriding.ibike
+
+Android:
+d01a4646bd7ed911914ebb2b677b61e6
+com.aishang.bms
