@@ -1,0 +1,21 @@
+微信开放平台
+https://open.weixin.qq.com/
+账号：rd@isriding.com
+密码：isriding604
+
+微信商户平台
+https://pay.weixin.qq.com/index.php/core/home/login?return_url=%2Findex.php%2Fcore%2Fhome
+商户平台登录帐号	1404099202@1404099202
+商户平台登录密码	689730
+
+微信支付商户号       	1404099202
+申请对应的应用   	尚骑（）
+应用APPID       	wx1df1e6e7a7d9b7e0
+AppSecret               77b995619e7159a4f3d626addc84d47b
+Api密匙                 xypm43pFtxMD2OzgkWm6A8u8O70Di3zh
+
+
+ShareSDK
+http://www.mob.com/
+账号：rd@isriding.com
+密码：isriding604

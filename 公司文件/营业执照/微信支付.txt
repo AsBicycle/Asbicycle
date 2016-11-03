@@ -1,0 +1,9 @@
+应用APPID       	wx1df1e6e7a7d9b7e0
+微信支付商户号       	1404099202
+申请对应的应用   	尚骑（）
+应用APPID       	wx1df1e6e7a7d9b7e0
+AppSecret               77b995619e7159a4f3d626addc84d47b
+Api密匙                 xypm43pFtxMD2OzgkWm6A8u8O70Di3zh
+
+
+开发文档地址  https://pay.weixin.qq.com/wiki/doc/api/app/app.php?chapter=9_1
