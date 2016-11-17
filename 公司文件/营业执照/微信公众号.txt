@@ -32,3 +32,8 @@ App Apple ID:1149749372
 申请对应的应用   	尚骑（）
 应用APPID       	wx1df1e6e7a7d9b7e0
 AppSecret               77b995619e7159a4f3d626addc84d47b
+
+
+
+jianjun@1404099202
+jianjun@isriding
